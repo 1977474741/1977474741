@@ -6,7 +6,7 @@
 - 🚢 Open source contributor
 - 🔭 Technology stack: Vue, uni-app, mpvue
 - 💬 A programmer with ideas
-- ❤️ Cats 😸 Mobile Games 🎮 music 🎵
+- ❤️ Cats 😸 Mobile Games 🎮 Music 🎵
 <!--
 **1977474741/1977474741** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
