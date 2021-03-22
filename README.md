@@ -1,5 +1,6 @@
-### Hi there 👋
-
+<div align="center">
+  <h1> Hi there 👋</h1>
+</div>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=1977474741&theme=dark&show_icons=true&include_all_commits=true&bg_color=20,0d1117cf,0d1117&hide=contribs" />
 
 - 🚢 Open source contributor
