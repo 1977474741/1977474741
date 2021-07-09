@@ -4,7 +4,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=1977474741&theme=dark&show_icons=true&include_all_commits=true&bg_color=20,313131,0d1117&hide=contribs&hide_border=true" />
 
 - 🚢 Open source contributor
-- 🔭 Technology stack: Vue, uni-app, mpvue
+- 🔭 Technology stack: Vue, Mini Program
 - 💬 A programmer with ideas
 - ❤️ Cats 😸, Mobile Games 🎮 and  Music 🎵
 <!--
