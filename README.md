@@ -5,7 +5,7 @@
 
 - 🚢 Open source contributor
 - 🔭 Technology stack: Vue, Mini Program
-- 💬 A programmer with ideas
+- 💬 A programmer with ideas,Like to simplify complicated things
 - ❤️ Cats 😸, Mobile Games 🎮 and  Music 🎵
 <!--
 **1977474741/1977474741** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
