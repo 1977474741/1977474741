@@ -2,6 +2,7 @@
   <h1> Hi there！ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px"></h1>
 </div>
 <img style="width:1px;height:1px;" src="https://profile-counter.glitch.me/1977474741/count.svg" />
+
 [![鹅鹅鹅's GitHub stats](https://github-readme-stats.vercel.app/api?username=1977474741&theme=dark&show_icons=true&include_all_commits=true&bg_color=20,313131,0d1117&hide=contribs&hide_border=true)](https://github.com/1977474741/1977474741)
 - 🚢 Open source enthusiasts
 - 🔭 Technology stack: Vue, Mini Program
