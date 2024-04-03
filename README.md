@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 -->
 
-<img style="width:1px;height:1px;" src="https://profile-counter.glitch.me/1977474741/count.svg" />
+<img style="width:1px;height:1px;margin:0;" src="https://profile-counter.glitch.me/1977474741/count.svg" />
